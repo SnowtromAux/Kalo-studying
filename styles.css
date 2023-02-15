@@ -1,0 +1,11 @@
+#btn{
+    width:  60px;
+    height: 20px;
+    position: absolute;
+}
+
+.wrapper{
+    width: 800px;
+    height: 600px;
+    border: 5px solid black;
+}
